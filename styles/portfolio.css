@@ -116,3 +116,12 @@
    .about-ingo{
     text-align: center;
    }
+
+   .skils-container{
+    display: flex;
+    margin-right: 5px;
+   }
+
+   .skill-description{
+    text-align: center;
+   }

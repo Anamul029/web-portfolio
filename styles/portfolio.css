@@ -103,3 +103,16 @@
     font-size: 35px;
     font-weight: 700;
    }
+   main{
+    max-width: 1140px;
+    text-align: center;
+    margin: 0 auto;
+   }
+   .about-info-container{
+    display: flex;
+    justify-content: space-around;
+   }
+
+   .about-ingo{
+    text-align: center;
+   }

@@ -3,6 +3,10 @@
        font-family: 'Open Sans', sans-serif;
    }
 
+   #mary{
+    font-size: large;
+   }
+
    nav {
        display: flex;
        justify-content: space-between;

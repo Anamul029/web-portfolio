@@ -178,6 +178,8 @@
        display: flex;
        margin-bottom: 10px;
        border: 0;
+       height: 30px;
+       width: 200px;
    }
 
    .footer {
@@ -188,16 +190,13 @@
        margin-top: 100px;
    }
 
-   .space {
-       width: 461px;
-       height: 180px;
-       flex-shrink: 0;
-       border-radius: 5px;
-      
-   }
    .footer input{
     background: white;
    }
    #btn{
     margin-top: 100px;
+   }
+   textarea{
+    width: 500px;
+    border: 0;
    }
